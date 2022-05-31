@@ -21,20 +21,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.owner = ['919605741366']
+global.premium = ['919605741366']
+global.ownernomer = '919605741366'
+global.ownername = 'RAFI SER'
+global.botname = 'RAFI-SER-MD'
+global.footer = 'Rafi Ser.'
+global.ig = 'https://github.com/RAFI-SER'
+global.region = 'India, North, Kerala'
+global.sc = 'https://github.com/'
+global.myweb = 'https://instagram.com/__r.a.f.ii__'
+global.packname = '🍒RAFI🍒'
+global.author = '919605741366'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','💫','🍒']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -46,7 +46,7 @@ global.mess = {
     bot: 'This Feature Is Only For Bot',
     wait: 'In Process...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
