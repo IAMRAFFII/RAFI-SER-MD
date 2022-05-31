@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot",
+  "name": "RAFI-SER-MD",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon.",
+  "author": "RAFI-SER.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD2.git"
+    "url": "git+https://github.com/RAFI-SER/RAFI-SER-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD2/issues"
+    "url": "https://github.com/RAFI-SER/RAFI-SER-MD/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD2#readme"
+  "homepage": "https://github.com/RAFI-SER/RAFI-SER-MD#readme"
 }
