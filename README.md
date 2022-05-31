@@ -15,14 +15,14 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD2?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD2?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RAFI-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAFI-SER?color=red&style=flat-square"></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RAFI-SER/RAFI-SER-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RAFI-SER/RAFI-SER-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RAFI-SER/RAFI-SER-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/RAFI-SER/RAFI-SER-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRAFI-SER%2FRAFI-SER-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/RAFI-SER/RAFI-SER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -31,23 +31,21 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/919605741366"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/69933531032d509ff9e54.jpg)
+- [`FamPay`](https://telegra.ph/file/699335032d509ff9e54.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
-## ```Bot Support Groups```
+## ```Bot Support Group```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
+- [`1st GC`](https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA)
 
 # Setup For Deployment 👇
 
@@ -77,7 +75,7 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD2.git
+git clone https://github.com/RAFI-SER/RAFI-SER-MD.git
 cd CheemsBot-MD2
 npm start
 ```
@@ -93,8 +91,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD2
-cd CheemsBot-MD2
+git clone https://github.com/RAFI-SER/RAFI-SER-MD
+cd RAFI-SER-MD
 npm start
 ```
 ## `For VPS`
@@ -105,8 +103,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD2
-cd CheemsBot-MD2
+git clone https://github.com/RAFI-SER/RAFI-SER-MD
+cd RAFI-SER-MD
 npm start
 ```
 ## `For 24/7 Activation`
