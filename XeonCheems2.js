@@ -208,11 +208,11 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
 	
 	//group target by xeon\\
 const reply = (teks) => {
-            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` 🍒Join Bot's Official GC🍒`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/rafi.jpg`),"sourceUrl": "https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA"}}}, { quoted: m})
+            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` 🍒Join Bot's Official GC🍒`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/rafi.jpeg`),"sourceUrl": "https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` 🍒Join Bot's Official GC🍒`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/rafi.jpg`),"sourceUrl": "https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA"}}}, { quoted: m})
+            XeonBotInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` 🍒Join Bot's Official GC🍒`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./XeonMedia/rafi.jpeg`),"sourceUrl": "https://chat.whatsapp.com/BzKwmGl4Fck6YiqugLTJbA"}}}, { quoted: m})
         }
 	
         //Public & Self\\
