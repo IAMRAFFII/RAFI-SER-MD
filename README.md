@@ -1,6 +1,6 @@
 <h1 align="center">ꪶRAFI SER BOT-MDꫂ<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+  <img src="https://i.imgur.com/0czIHA3.jpeg" width="540" height="300" />
 </p>
 
 <p align="center">
