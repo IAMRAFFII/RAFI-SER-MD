@@ -1905,7 +1905,7 @@ break
             reply(db)
         }
         break
-            case 'emojimix': {
+            case 'emojimix': case 'emix': {
 	        if (!text) return replay(`Example : ${prefix + command} 😚+🤔`)
 		let [emoji1, emoji2] = text.split`+`
 		let anu = await fetchJson(`https://tenor.googleapis.com/v2/featured?key=AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ&contentfilter=high&media_filter=png_transparent&component=proactive&collection=emoji_kitchen_v5&q=${encodeURIComponent(emoji1)}_${encodeURIComponent(emoji2)}`)
@@ -1941,7 +1941,7 @@ break
                 await fs.unlinkSync(media)
             }
             break
-            case 'audio': case 'toaudio': {
+            case 'audio': case 'mp3': {
             if (!/video/.test(mime) && !/audio/.test(mime)) return replay(`Send/Reply Video/Audio You Want To Use As Audio With Caption ${prefix + command}`)
             if (!quoted) return reply(`Send/Reply Video/Audio You Want To Convert To Audio With Caption ${prefix + command}`)
             reply(mess.wait)
@@ -1951,7 +1951,7 @@ break
             XeonBotInc.sendMessage(m.chat, {audio: audio, mimetype: 'audio/mpeg'}, { quoted : m })
             }
             break
-            case 'mp3': {
+            case 'doc': {
             if (/document/.test(mime)) return reply(`Send/Reply Video/Audio You Want to Convert Into MP3 With Caption ${prefix + command}`)
             if (!/video/.test(mime) && !/audio/.test(mime)) return replay(`Send/Reply Video/Audio You Want To Convert into MP3 With Caption ${prefix + command}`)
             if (!quoted) return replay(`Send/Reply Video/Audio You Want To Convert Into MP3 With Caption ${prefix + command}`)
