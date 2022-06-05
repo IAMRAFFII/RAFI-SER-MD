@@ -2002,7 +2002,7 @@ break
 	    if (!/image/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
 	    if (/webp/.test(mime)) return replay(`Send/Reply Image With Caption ${prefix + command}`)
 	    let remobg = require('remove.bg')
-	    let apirnobg = ['q61faXzzR5zNU6cvcrwtUkRU','S258diZhcuFJooAtHTaPEn4T','5LjfCVAp4vVNYiTjq9mXJWHF','aT7ibfUsGSwFyjaPZ9eoJc61','BY63t7Vx2tS68YZFY6AJ4HHF','5Gdq1sSWSeyZzPMHqz7ENfi8','86h6d6u4AXrst4BVMD9dzdGZ','xp8pSDavAgfE5XScqXo9UKHF','dWbCoCb3TacCP93imNEcPxcL']
+	    let apirnobg = ['q61faXzzR5zNU6cvcrwtUkRU','S258diZhcuFJooAtHTaPEn4T','5LjfCVAp4vVNYiTjq9mXJWHF','aT7ibfUsGSwFyjaPZ9eoJc61','BY63t7Vx2tS68YZFY6AJ4HHF','5Gdq1sSWSeyZzPMHqz7ENfi8','86h6d6u4AXrst4BVMD9dzdGZ','xp8pSDavAgfE5XScqXo9UKHF','dWbCoCb3TacCP93imNEcPxcL','HJhwZxxrbN4STtGFWZqLXuXt']
 	    let apinobg = apirnobg[Math.floor(Math.random() * apirnobg.length)]
 	    hmm = await './src/remobg-'+getRandom('')
 	    localFile = await XeonBotInc.downloadAndSaveMediaMessage(quoted, hmm)
@@ -3459,7 +3459,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"rowId": `${prefix}randomanimemenu`
 										},
 										{
-											"title": "🍒Fun Menu🍒",
+						 				"title": "🍒Fun Menu🍒",
 										"description": "💫Displays The List Of Fun Features💫",
 										"rowId": `${prefix}funmenu`
 										},
